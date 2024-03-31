@@ -45,10 +45,10 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 <strong>Connect With Me @</strong>
 
 <p align="center">
-<a href="https://maanilverma.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/Ahsan Adeeb"><img src="https://img.shields.io/badge/-Maanil%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adeebahsan10@gmail.com"><img src="https://img.shields.io/badge/-maanilv8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/MrAdeeb12"><img src="https://img.shields.io/twitter/url?color=White&label=Maanil%20Vema&style=social&url=https%3A%2F%2Ftwitter.com%2FMaanilV"/></a>
+<a href="https://www.linkedin.com/in/ahsan-adeeb-3a2158203/"><img src="https://img.shields.io/badge/-Ahsan%20Adeeb-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adeebahsan10@gmail.com"><img src="https://img.shields.io/badge/-adeebahsan10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/MrAdeeb12"><img src="https://img.shields.io/twitter/url?color=White&label=Ahsan%20Adeeb&style=social&url=https%3A%2F%2Ftwitter.com%2FMrAdeeb12"/></a>
+
 
 </p>
 
